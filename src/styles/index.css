@@ -1,0 +1,6 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+@import 'react-grid-layout/css/styles.css';
+@import 'react-resizable/css/styles.css';
+@import './dashboard-responsive.css';
